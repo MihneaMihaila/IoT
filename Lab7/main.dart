@@ -275,10 +275,6 @@ class _MyHomePageState extends State<MyHomePage> {
               Padding(padding: EdgeInsets.all(15)),
               Row(
                 children: [
-                  Image.asset(
-                    "assets/MEANING.png.jpg",
-                    width: 150,
-                    height: 150,),
                   Text("Products you have to buy")
                 ],
               ),
@@ -330,10 +326,6 @@ class _MyHomePageState extends State<MyHomePage> {
               Padding(padding: EdgeInsets.all(15)),
               Row(
                 children: [
-                  Image.asset(
-                    "assets/MEANING.png.jpg",
-                    width: 150,
-                    height: 150,),
                   Text("Favorites")
                 ],
               ),
